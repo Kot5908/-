@@ -32,3 +32,27 @@ main{
     margin: 1%;
     background-color: teal;
 }
+#экология{
+width: 300px;
+height: 300px;
+}
+#население{
+    width: 300px;
+    height: 300px;
+}
+#недвижимость {
+    width: 500px;
+    height: 400px;
+}
+#инфаструктура{
+    width: 300px;
+    height: 300px;
+}
+#работа{
+    width: 300px;
+    height: 300px;
+}
+#криминал{
+    width: 300px;
+    height: 300px;
+}
